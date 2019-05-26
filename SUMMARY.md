@@ -22,22 +22,4 @@
   * [第13章：平行化](clean-code/ch13.md)
 * [Effective java 2nd/3rd](effective-java-2/README.md)
 
-## UNIT TEST
-
-
-## SPRING
-
-* [Spring IOC](spring/aop/ico.md)
-* [Spring AOP](spring/aop/aop.md)
-* [Spring MVC](spring/mvc/sprignmvc.md)
-* [Spring Security](spring/security/security.md)
-
-
-
-## TOOLS
-
-* [Eclipse](tools/eclipse.md)
-  * [常用熱鍵 Hot keys](tools/eclipse/hot-keys.md)
-  * [排版原則與技巧](tools/eclipse/source-code-formating.md)
-  * [Java Errors and Warnings](tools/eclipse/errors-and-warnings.md)
 
