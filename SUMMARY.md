@@ -2,7 +2,7 @@
 
 ## 前言
 
-* [拔](README.md)
+* [閱讀、討論與分享](README.md)
 
 ## Books
 
