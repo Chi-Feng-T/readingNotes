@@ -1,9 +1,5 @@
 # Summary
 
-## 前言
-
-* [閱讀、討論與分享](Intro.md)
-
 ## Books
 
 * [Clean code](clean-code/README.md)
