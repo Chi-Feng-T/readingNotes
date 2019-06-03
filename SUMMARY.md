@@ -2,6 +2,7 @@
 
 ## 前言
 
+* [前言](README.md)
 * [閱讀、討論與分享](Intro.md)
 
 ## Books
