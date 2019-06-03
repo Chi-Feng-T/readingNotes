@@ -2,7 +2,7 @@
 
 * [閱讀、討論與分享](README.md)
 
-# Books
+## Books
 
 * [Clean code](clean-code/README.md)
   * [第1章：無瑕的程式碼](clean-code/ch01.md)
